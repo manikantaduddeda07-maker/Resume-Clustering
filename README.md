@@ -27,7 +27,7 @@ This project automates the clustering of resumes based on textual similarity, ma
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/vivekvarma-01/Resume-Clustering.git
+git clone https://github.com/manikantaduddeda07-maker/Resume-Clustering.git
 cd Resume-Clustering
 pip install -r requirements.txt
 ```
